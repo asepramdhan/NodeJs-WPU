@@ -1,0 +1,19 @@
+{
+  "name": "website-wpu",
+  "version": "1.0.0",
+  "description": "Belajar node js dengan mengikuti pelajaran di channel web programming unpas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asepramdhan/NodeJs-WPU.git"
+  },
+  "author": "Ramdhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asepramdhan/NodeJs-WPU/issues"
+  },
+  "homepage": "https://github.com/asepramdhan/NodeJs-WPU#readme"
+}
